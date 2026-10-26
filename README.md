@@ -6,8 +6,8 @@
 
 | Name | GitHub | Main responsibilities |
 |------|--------|-----------------------|
-| TODO-AUTHOR | @… | … |
-| TODO-AUTHOR | @… | … |
+| TODO-AUTHOR | @esad | Web app & backend |
+| TODO-AUTHOR | @amil-tabakovic | Mobile app |
 
 <!-- Lab repository: one row. Project repository: both team members. -->
 
@@ -40,7 +40,7 @@ flowchart LR
 | Backend | … |
 | Web front end | … |
 | Database | … |
-| Mobile | … |
+| Mobile | ReactNative |
 | Cloud | … |
 | LLM provider | … |
 
